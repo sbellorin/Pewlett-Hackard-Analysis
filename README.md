@@ -19,12 +19,11 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 	![alt text](https://github.com/sbellorin/Pewlett-Hackard-Analysis/blob/83a559f8a835e28e97d0f4bcce6343d661e7dbf0/queries/Mentorship%20Eligibility.png "Mentorship Candidates")
 	
+- After creating the unique_titles table by joining the employees and titles tables, filtering them by date of birth and date hired, removing duplicates, and ordering the data points by date hired there are **90,398 employees retiring** as per the above criterion. 
+	
+	![alt text](https://github.com/sbellorin/Pewlett-Hackard-Analysis/blob/35987049a2452d9ca96442cd0563304ee923e446/queries/unique.png "Unique Titles")
+	
 
 ## Summary
 
-- At the moment at Pewlett Hackard, **64%** of their employees are getting ready for retirement or being redirected to their mentorship initiatives, which will mean that they are likely going to need an extensive hiring process in the upcoming years. Since a significant amount of future retirees hold Senior positions the mentorship program should provide a capacitation buffer for the extensive expertise that will be leaving the company in the years to come. 
-
-
-## Resources
-
-**Data Sources:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+Seeing the 64% of the workforce is either retirment or mentorship eligible there will most likely be many positions to fill over the next 5-10 years. There may not exactly be enough people in the workforce to take care of the tasks or even come close to the amount of experience to fill these roles so quickly but what companies can do is try to best learn about what these employees did to be so successful/ having such long lasting careers to continue the tradition for future employees. Most likely the future generation is more computer savy/ efficent due to technologies and can catch on quickly helping companies continue to trend in the right direction by keeping revenues up.
